@@ -1,3 +1,11 @@
+# Reflection 7
+## 03/9/2018
+This we have learned how to use xml codes and how they work. In class we also did an xml project that divides specific species and animals into groups. This week I learned how to describe animals in xml. Another thing we did this week was make a list of ideas for future projects on Trello. I also learned how to do multiple codes by myself without anyones help. 
+
+
+
+
+
 # Reflection 6
 ## 03/1/2018
 This week we have made many projects such as the classroom xml project and I also made a website idea for trello. My idea is to make an offline email browser that you have to download before yougo offline. This browser will save the docs onto your computer automaticlly without you forgeting to do so. This site will be vey useful because it will download emails for you. 
