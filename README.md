@@ -1,9 +1,16 @@
+# Reflection 8
+## 03/16/2018
+This week we have learned how to make a site and code html. I learned how make pictures and change their hieght and width in html. I also learned that coding isn't as easy as you think it is. Another thing we learned this week is how to draft ideas that we are somewhat capable of doing.
+
+---
+
+
 # Reflection 7
 ## 03/9/2018
-This we have learned how to use xml codes and how they work. In class we also did an xml project that divides specific species and animals into groups. This week I learned how to describe animals in xml. Another thing we did this week was make a list of ideas for future projects on Trello. I also learned how to do multiple codes by myself without anyones help. 
+This week we have learned how to use xml codes and how they work. In class we also did an xml project that divides specific species and animals into groups. This week I learned how to describe animals in xml. Another thing we did this week was make a list of ideas for future projects on Trello. I also learned how to do multiple codes by myself without anyones help. 
 
 
-
+---
 
 
 # Reflection 6
