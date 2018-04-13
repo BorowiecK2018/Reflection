@@ -1,3 +1,12 @@
+# Reflection 9
+## 04/13/2018
+This week we learned how to make a site that orders pizza. I also learned how to find a site that shows you examples of code that works. Another thing we learned was how to change the background color of my site and the text color. The next thing I learned to do is use my resources and what the best way to solve the problem I'm given.
+
+
+---
+
+
+
 # Reflection 8
 ## 03/16/2018
 This week we have learned how to make a site and code html. I learned how make pictures and change their hieght and width in html. I also learned that coding isn't as easy as you think it is. Another thing we learned this week is how to draft ideas that we are somewhat capable of doing.
