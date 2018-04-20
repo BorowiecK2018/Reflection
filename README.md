@@ -1,10 +1,16 @@
+# Reflection 10
+## 04/20/2018
+This wee I've finished my pizza project I imported pictures of pizza sizes and toppings. The pizza project was basicly a pizza ordering site that lets your order pizza from. This week i've also learned how to change the text font on the site. Another thing that I accomplished this week is I finnaly found how to use my resources and I relized I know how to do it better when someone doesn't tell me about.
+
+___
+
+
 # Reflection 9
 ## 04/13/2018
 This week we learned how to make a site that orders pizza. I also learned how to find a site that shows you examples of code that works. Another thing we learned was how to change the background color of my site and the text color. The next thing I learned to do is use my resources and what the best way to solve the problem I'm given.
 
 
 ---
-
 
 
 # Reflection 8
