@@ -1,6 +1,13 @@
+# Reflection 11
+## 04/26/2018
+This week we all did bootstrap project where we basicly made a profile that describes our awards, what ranks we are our academic awards. I learned how to use windows ubuntu sever since I work on mac, which benifits me because I work on make so I dont have to tell Mr.Gold to upload all my downloads. I also learned more about my google friday project which will be a 2D html game that is simple but fun. Another thing we have learned this week would be how to use bootstrap made and import it to ubuntu and how to unzip and place the file.
+
+___
+
+
 # Reflection 10
 ## 04/20/2018
-This wee I've finished my pizza project I imported pictures of pizza sizes and toppings. The pizza project was basicly a pizza ordering site that lets your order pizza from. This week i've also learned how to change the text font on the site. Another thing that I accomplished this week is I finnaly found how to use my resources and I relized I know how to do it better when someone doesn't tell me about.
+This week I've finished my pizza project I imported pictures of pizza sizes and toppings. The pizza project was basicly a pizza ordering site that lets your order pizza from. This week i've also learned how to change the text font on the site. Another thing that I accomplished this week is I finnaly found how to use my resources and I relized I know how to do it better when someone doesn't tell me about.
 
 ___
 
