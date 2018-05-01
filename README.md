@@ -1,3 +1,8 @@
+# Reflection 12
+## 05/01/2018
+Today I searched up game ideas for my google friday project and found some intresting topics. I also found some html code on html games online.
+
+
 # Reflection 11
 ## 04/26/2018
 This week we all did bootstrap project where we basicly made a profile that describes our awards, what ranks we are our academic awards. I learned how to use windows ubuntu sever since I work on mac, which benifits me because I work on make so I dont have to tell Mr.Gold to upload all my downloads. I also learned more about my google friday project which will be a 2D html game that is simple but fun. Another thing we have learned this week would be how to use bootstrap made and import it to ubuntu and how to unzip and place the file.
