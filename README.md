@@ -1,3 +1,10 @@
+# Reflection 13 
+## 05/02/2018
+Today I entered new code into my bootstrap porject almost completed it. I added more facts about me and strated adding pictures on the regna site I created.
+
+---
+
+
 # Reflection 12
 ## 05/01/2018
 Today I searched up game ideas for my google friday project and found some intresting topics. I also found some html code on html games online.
