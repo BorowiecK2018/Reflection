@@ -1,3 +1,8 @@
+# Reflection 14 
+## 05/03/2018
+Today I am almost complete with my bootstrap project. I only have to insert a mugshot for the bootstrap project.
+
+
 # Reflection 13 
 ## 05/02/2018
 Today I entered new code into my bootstrap porject almost completed it. I added more facts about me and strated adding pictures on the regna site I created.
