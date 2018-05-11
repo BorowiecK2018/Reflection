@@ -1,3 +1,9 @@
+# Reflection 15
+## 05/11/2018
+This week I have finished my bootstrap project and very close to completeing my google friday project. This week I also learned how bootstrap works and javasript. This week we all learned how to use main.js which was a javascript file that we used to make a noun, verb, and a adjective entering sheet were you enter one of those and gives you the list of them. Another thing I learned this week was how to use javascript to make a keyboard controler.
+
+---
+
 # Reflection 14 
 ## 05/03/2018
 Today I am almost complete with my bootstrap project. I only have to insert a mugshot for the bootstrap project.
